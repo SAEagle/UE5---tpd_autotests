@@ -33,9 +33,9 @@ bool FMathSqrt::RunTest(const FString& Parameters)
 
 bool FMathRandRange::RunTest(const FString& Parameters)
 {
-    AddInfo("Max [int] func testing");
+    AddInfo("RandRange func testing");
 
-    TestEqual("Test", FMath::Max(0, 2), 25);
+    TestEqual("Test", FMath::Max(0, 2), 1);
 
     return true;
 }
