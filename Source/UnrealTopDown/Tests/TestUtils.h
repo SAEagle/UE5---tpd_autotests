@@ -1,5 +1,5 @@
 #pragma once
-
+#if WITH_AUTOMATION_TESTS
 #include "CoreMinimal.h"
 
 namespace UTPDGame
@@ -14,5 +14,14 @@ struct TestPayload
     Type2 ExpectedValue;
     float Tolerance = KINDA_SMALL_NUMBER;
 };
+
+#define ENUM_LOOP_START(TYPE, EnumElem)                                        \
+    for (int32 index = 0; index < StaticEnum<TYPE>()->NumEnums() - 1; ++index) \
+    {                                                                          \
+        const auto EnumElem = static_cast<TYPE>(index);
+#define ENUM_LOOP_END }
+
 }  // namespace Test
 }  // namespace UTPDGame
+
+#endif
