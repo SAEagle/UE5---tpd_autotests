@@ -9,6 +9,7 @@
 #include "UnrealTopDown/TPDTypes.h"
 #include "UnrealTopDown/Tests/TestUtils.h"
 
+
 IMPLEMENT_SIMPLE_AUTOMATION_TEST(FComponentCouldBeCreated, "TPSGame.Components.Inventory.ComponentCouldBeCreated",
     EAutomationTestFlags::ApplicationContextMask | EAutomationTestFlags::ProductFilter | EAutomationTestFlags::HighPriority);
 

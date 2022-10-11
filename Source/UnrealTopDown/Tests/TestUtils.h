@@ -39,6 +39,8 @@ public:
 
 UWorld* GetTestGameWorld();
 
+void CallFuncByNameWithParams(UObject* Object, const FString& FuncName, const TArray<FString> Params);
+
 }  // namespace Test
 }  // namespace UTPDGame
 
