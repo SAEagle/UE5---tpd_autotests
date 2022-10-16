@@ -30,12 +30,14 @@ IMPLEMENT_SIMPLE_AUTOMATION_TEST(FInventoryDataShouldBeSetupCorrectly, "TPSGame.
 IMPLEMENT_SIMPLE_AUTOMATION_TEST(FInventoryCanBeTaken, "TPSGame.Items.Inventory.FInventoryCanBeTaken",
     EAutomationTestFlags::ApplicationContextMask | EAutomationTestFlags::ProductFilter | EAutomationTestFlags::HighPriority);
 
+IMPLEMENT_SIMPLE_AUTOMATION_TEST(FEvenryInventoryItemMeshExists, "TPSGame.Items.Inventory.FEvenryInventoryItemMeshExists",
+    EAutomationTestFlags::ApplicationContextMask | EAutomationTestFlags::ProductFilter | EAutomationTestFlags::HighPriority);
+
 using namespace UTPDGame::Test;
 namespace
 {
 constexpr char* InventoryItemBPName = "Blueprint'/Game/Inventory/BP_InventoryPickup.BP_InventoryPickup'";
 constexpr char* InventoryItemBPTestName = "Blueprint'/Game/Tests/BP_Test_InventoryPickup_.BP_Test_InventoryPickup_'";
-
 
 }  // namespace
 
@@ -174,6 +176,33 @@ bool FInventoryCanBeTaken::RunTest(const FString& Parameters)
     TArray<AActor*> InvItems;
     UGameplayStatics::GetAllActorsOfClass(World, UTPDInventoryComponent::StaticClass(), InvItems);
     TestTrueExpr(InvItems.Num() == 0);
+
+    return true;
+}
+
+bool FEvenryInventoryItemMeshExists::RunTest(const FString& Parameters)
+{
+    AutomationOpenMap("/Game/Tests/EmptyTestLevel");
+
+    UWorld* World = GetTestGameWorld();
+    if (!TestNotNull("World exists", World)) return false;
+
+    ENUM_LOOP_START(EInventoryItemType, EElem)
+
+    const FTransform InitialTransform{FVector{100.0f * (index + 1)}};
+    ATPDInventoryPickup* InvItem = CreateBlueprint<ATPDInventoryPickup>(World, InventoryItemBPTestName, InitialTransform);
+    if (!TestNotNull("Inventory item exists", InvItem)) return false;
+
+    const FInventoryData InvData = {EElem, 13};
+    const FLinearColor Color = FLinearColor::Yellow;
+    CallFuncByNameWithParams(InvItem, "SetInventoryData", {InvData.ToString(), Color.ToString()});
+
+    const auto StaticMeshComp = InvItem->FindComponentByClass<UStaticMeshComponent>();
+    if (!TestNotNull("Static Mesh comp exists", StaticMeshComp)) return false;
+
+    const FString MeshMsg = FString::Printf(TEXT("Static mesh for %s exists"), *UEnum::GetValueAsString(EElem));
+
+    ENUM_LOOP_END
 
     return true;
 }

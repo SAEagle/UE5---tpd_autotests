@@ -11,6 +11,7 @@
 #include "Materials/Material.h"
 #include "Engine/World.h"
 #include "UnrealTopDown/Components/TPDInventoryComponent.h"
+#include "TimerManager.h"
 
 AUnrealTopDownCharacter::AUnrealTopDownCharacter()
 {
@@ -48,7 +49,69 @@ AUnrealTopDownCharacter::AUnrealTopDownCharacter()
     InventoryComponent = CreateDefaultSubobject<UTPDInventoryComponent>("InventoryComponent");
 }
 
+void AUnrealTopDownCharacter::BeginPlay()
+{
+    Super::BeginPlay();
+
+    check(HealthData.MaxHealth > 0.0f);
+    Health = HealthData.MaxHealth;
+
+    OnTakeAnyDamage.AddDynamic(this, &AUnrealTopDownCharacter::OnAnyDamageReceived);
+}
+
 void AUnrealTopDownCharacter::Tick(float DeltaSeconds)
 {
     Super::Tick(DeltaSeconds);
+}
+
+void AUnrealTopDownCharacter::OnHealing()
+{
+    Health = FMath::Clamp(Health + HealthData.HealModifier, 0.0f, HealthData.MaxHealth);
+    if (FMath::IsNearlyEqual(Health, HealthData.MaxHealth))
+    {
+        Health = HealthData.MaxHealth;
+        GetWorldTimerManager().ClearTimer(HealTimerHandle);
+    }
+}
+
+void AUnrealTopDownCharacter::OnDeath()
+{
+    GetWorldTimerManager().ClearTimer(HealTimerHandle);
+
+    GetCharacterMovement()->DisableMovement();
+    GetCapsuleComponent()->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+    GetMesh()->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);
+    GetMesh()->SetSimulatePhysics(true);
+
+    if (Controller)
+    {
+        Controller->ChangeState(NAME_Spectating);
+    }
+
+    SetLifeSpan(HealthData.LifeSpanRate);
+}
+
+void AUnrealTopDownCharacter::OnAnyDamageReceived(
+    AActor* DamagedActor, float Damage, const UDamageType* DamageType, AController* InsitgatedBy, AActor* DamageCauser)
+{
+    const auto IsAlive = [&]() { return Health > 0.0f; };
+
+    if (Damage <= 0.0f || !IsAlive()) return;
+
+    Health = FMath::Clamp(Health - Damage, 0.0f, HealthData.MaxHealth);
+
+    if (IsAlive())
+    {
+        GetWorldTimerManager().SetTimer(HealTimerHandle, this, &AUnrealTopDownCharacter::OnHealing, HealthData.HealRate, true, -1.0f);
+    }
+    else
+    {
+        GetWorldTimerManager().ClearTimer(HealTimerHandle);
+        OnDeath();
+    }
+}
+
+float AUnrealTopDownCharacter::GetHealthPercent() const
+{
+    return Health / HealthData.MaxHealth;
 }
