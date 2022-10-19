@@ -13,7 +13,6 @@
 #include "Components/StaticMeshComponent.h"
 #include "UnrealTopDown/Tests/TestUtils.h"
 #include "Engine/Blueprint.h"
-#include "UnrealTopDown/Tests/TestUtils.h"
 #include "Kismet/GameplayStatics.h"
 #include "UnrealTopDown/UnrealTopDownCharacter.h"
 #include "UnrealTopDown/Components/TPDInventoryComponent.h"

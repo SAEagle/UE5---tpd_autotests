@@ -29,6 +29,9 @@ public:
     /** Returns CameraBoom subobject **/
     USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
 
+    UFUNCTION(BlueprintCallable, Category = "Health")  // for protected  meta = (BlueprintProtected = "true")
+    float GetHealthPercent() const;
+
 private:
     /** Top down camera */
     UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
@@ -54,9 +57,6 @@ protected:
 
     UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Health")
     FHealthData HealthData;
-
-    UFUNCTION(BlueprintCallable, Category = "Health")
-    float GetHealthPercent() const;
 
     virtual void BeginPlay() override;
 };
