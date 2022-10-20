@@ -26,8 +26,8 @@ AUnrealTopDownCharacter::AUnrealTopDownCharacter()
     // Configure character movement
     GetCharacterMovement()->bOrientRotationToMovement = true;  // Rotate character to moving direction
     GetCharacterMovement()->RotationRate = FRotator(0.f, 640.f, 0.f);
-    GetCharacterMovement()->bConstrainToPlane = true;
-    GetCharacterMovement()->bSnapToPlaneAtStart = true;
+    GetCharacterMovement()->JumpZVelocity = 600.f;
+    GetCharacterMovement()->AirControl = 0.2f;
 
     // Create a camera boom...
     CameraBoom = CreateDefaultSubobject<USpringArmComponent>(TEXT("CameraBoom"));
@@ -47,6 +47,45 @@ AUnrealTopDownCharacter::AUnrealTopDownCharacter()
     PrimaryActorTick.bStartWithTickEnabled = true;
 
     InventoryComponent = CreateDefaultSubobject<UTPDInventoryComponent>("InventoryComponent");
+}
+
+void AUnrealTopDownCharacter::MoveForward(float Value)
+{
+    if (Controller && Value != 0.0f)
+    {
+        // find out which way is forward
+        const FRotator Rotation = Controller->GetControlRotation();
+        const FRotator YawRotation(0, Rotation.Yaw, 0);
+
+        // get forward vector
+        const FVector Direction = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);
+        AddMovementInput(Direction, Value);
+    }
+}
+
+void AUnrealTopDownCharacter::MoveRight(float Value)
+{
+    if (Controller && Value != 0.0f)
+    {
+        // find out which way is right
+        const FRotator Rotation = Controller->GetControlRotation();
+        const FRotator YawRotation(0, Rotation.Yaw, 0);
+
+        // get right vector
+        const FVector Direction = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);
+        // add movement in that direction
+        AddMovementInput(Direction, Value);
+    }
+}
+
+void AUnrealTopDownCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
+{  // Set up gameplay key bindings
+    check(PlayerInputComponent);
+    PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
+    PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
+
+    PlayerInputComponent->BindAxis("MoveForward", this, &AUnrealTopDownCharacter::MoveForward);
+    PlayerInputComponent->BindAxis("MoveRight", this, &AUnrealTopDownCharacter::MoveRight);
 }
 
 void AUnrealTopDownCharacter::BeginPlay()

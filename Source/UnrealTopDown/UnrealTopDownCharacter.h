@@ -58,5 +58,13 @@ protected:
     UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Health")
     FHealthData HealthData;
 
+    /** Called for forwards/backward input */
+    void MoveForward(float Value);
+
+    /** Called for side to side input */
+    void MoveRight(float Value);
+
+    virtual void SetupPlayerInputComponent(UInputComponent* PlayerInputComponent) override;
+
     virtual void BeginPlay() override;
 };
