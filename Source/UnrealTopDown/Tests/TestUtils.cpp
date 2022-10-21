@@ -70,6 +70,11 @@ int32 GetAxisBindingByName(UInputComponent* InputComp, const FString& AxisName)
     return AxisIndex;
 }
 
+FString GetTestDataDir()
+{
+    return FPaths::GameSourceDir().Append("UnrealTopDown/Tests/Data/");
+}
+
 FTPDUntilLatentCommand::FTPDUntilLatentCommand(TFunction<void()> InCallback, TFunction<void()> InTimeoutCallback, float InTimeout)
     : Callback(MoveTemp(InCallback)), TimeoutCallback(MoveTemp(InTimeoutCallback)), Timeout(InTimeout)
 {

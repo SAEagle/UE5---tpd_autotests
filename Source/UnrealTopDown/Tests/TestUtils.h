@@ -52,7 +52,6 @@ class FTPDUntilLatentCommand : public IAutomationLatentCommand
 {
 public:
     FTPDUntilLatentCommand(TFunction<void()> InCallback, TFunction<void()> InTimeoutCallback, float InTimeout = 5.0f);
- 
 
     virtual bool Update() override;
 
@@ -65,6 +64,8 @@ private:
 int32 GetActionBindingIndexByName(UInputComponent* InputComp, const FString& ActionName, EInputEvent InputEvent);
 
 int32 GetAxisBindingByName(UInputComponent* InputComp, const FString& AxisName);
+
+FString GetTestDataDir();
 
 
 }  // namespace Test

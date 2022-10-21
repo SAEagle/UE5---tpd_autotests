@@ -1,0 +1,9763 @@
+{
+	"bindings": [
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.016666699200868607
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.30156350135803223
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.33677861094474792
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.35344532132148743
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.37011203169822693
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.38677874207496643
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.40344545245170593
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.42011216282844543
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.43677887320518494
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.45344558358192444
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.47011229395866394
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.48681339621543884
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.50348007678985596
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.52014678716659546
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.53681349754333496
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.55348020792007446
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.57014703750610352
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.58682304620742798
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.60348975658416748
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.62015646696090698
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.63682317733764648
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.65348988771438599
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.67015659809112549
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.68682336807250977
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.70349007844924927
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.72015678882598877
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.73682349920272827
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.75349020957946777
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.77015691995620728
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.78682363033294678
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.80349034070968628
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.82015717029571533
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.83682388067245483
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.85349059104919434
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.87015730142593384
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.88682401180267334
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.90349072217941284
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.92015743255615234
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.93682414293289185
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.95349085330963135
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.97015756368637085
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 0.98682427406311035
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 1.0034909248352051
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 1.0201575756072998
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 1.0368242263793945
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 1.0534908771514893
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 1.0701576471328735
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 1.0868242979049683
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 1.103490948677063
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 1.1201575994491577
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 1.136824369430542
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.1534910202026367
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.1764980554580688
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.1938905715942383
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.210557222366333
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.2272238731384277
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.2438905239105225
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.2605572938919067
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.2772239446640015
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.293891429901123
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.3105580806732178
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.3272248506546021
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.3438915014266968
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.3605581521987915
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.3772249221801758
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.3938915729522705
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.4106646776199341
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.4273313283920288
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.4439979791641235
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.4606646299362183
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.477331280708313
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.4939979314804077
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.5106645822525024
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.5273312330245972
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.5439978837966919
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.5606645345687866
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.5773311853408813
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.5939978361129761
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.6106646060943604
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.6273312568664551
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.6439979076385498
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.6606676578521729
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.6773343086242676
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.6940009593963623
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.710667610168457
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.7273342609405518
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.7440009117126465
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.7607617378234863
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.7774283885955811
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.7940950393676758
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.8107616901397705
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.8274283409118652
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.84409499168396
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.8607616424560547
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.8774282932281494
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.8940949440002441
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 1.9107615947723389
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 1.9274282455444336
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 1.9440948963165283
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 1.9607616662979126
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 1.9774283170700073
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 1.9940949678421021
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.0107617378234863
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.0274283885955811
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.0440950393676758
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.0607616901397705
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.0774283409118652
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.09409499168396
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.1107616424560547
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.1274282932281494
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.1440949440002441
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.1607615947723389
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.1774282455444336
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.1940948963165283
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.210761547088623
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.2274281978607178
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.2440948486328125
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.2607614994049072
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.277428150177002
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.2940948009490967
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.3107614517211914
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.3274281024932861
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.3440947532653809
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.3607614040374756
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.3774280548095703
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.394094705581665
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.4107613563537598
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.4274280071258545
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 2.4440946578979492
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.4607613086700439
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.4774279594421387
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.4940946102142334
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.5107612609863281
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.5274279117584229
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.5440945625305176
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.5607612133026123
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.577427864074707
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.5940945148468018
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.6107611656188965
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.6274278163909912
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.6440944671630859
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.6607613563537598
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.6774282455444336
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.6940948963165283
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.7107617855072021
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.7274284362792969
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.7440950870513916
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.7607617378234863
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.7774283885955811
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.7940950393676758
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.8107616901397705
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.8274283409118652
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.84409499168396
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.8607616424560547
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.8774282932281494
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.8940949440002441
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.9107615947723389
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.9274282455444336
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.9440948963165283
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.960761547088623
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.9774281978607178
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 2.9940948486328125
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.0107614994049072
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.027428150177002
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.0440948009490967
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.0607614517211914
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.0774281024932861
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.0940947532653809
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.1107614040374756
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.1274280548095703
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.1440956592559814
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.1607623100280762
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.1774289608001709
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.1940956115722656
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.2107625007629395
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.2274291515350342
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.2440958023071289
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.2607624530792236
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.2774291038513184
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.2940957546234131
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.3107624053955078
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.3274290561676025
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.3440957069396973
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.360762357711792
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.3774290084838867
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.3940956592559814
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.4107623100280762
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.4274289608001709
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.4440956115722656
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.4607622623443604
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.4774289131164551
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.4940955638885498
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.5107622146606445
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.5274288654327393
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.544095516204834
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.5607621669769287
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.5774288177490234
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.5940954685211182
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.6107628345489502
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.6274294853210449
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.6440961360931396
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.6607627868652344
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.6774294376373291
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.6940960884094238
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.7107627391815186
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.7274293899536133
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.744096040725708
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.7607626914978027
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.7774293422698975
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.7940959930419922
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.8107626438140869
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.8274292945861816
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.8440959453582764
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.8607625961303711
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.8774302005767822
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.8940970897674561
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.9107639789581299
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.9274308681488037
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.9440975189208984
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.9607641696929932
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.9774308204650879
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 3.9940974712371826
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 4.0107641220092773
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 4.0274310111999512
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.044097900390625
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.0607647895812988
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.0774316787719727
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.0940985679626465
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.1107654571533203
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.1274323463439941
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.144099235534668
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.1607661247253418
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.1774330139160156
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.1940999031066895
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.2107667922973633
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.2274336814880371
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.2441005706787109
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.2607674598693848
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.2774343490600586
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.2941141128540039
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.3107810020446777
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.3274478912353516
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.3441147804260254
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.3607816696166992
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.377448558807373
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.3941154479980469
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.4107823371887207
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.4274492263793945
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.4441161155700684
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.4607830047607422
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.477449893951416
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.4941167831420898
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.5107836723327637
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.5274505615234375
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.5441174507141113
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.5607843399047852
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.577451229095459
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.5941181182861328
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.6107850074768066
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.6274518966674805
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.6441187858581543
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.6607856750488281
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.677452564239502
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.6941194534301758
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.7107863426208496
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.7274532318115234
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.7441201210021973
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.7607870101928711
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.7774538993835449
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.806464672088623
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.8231315612792969
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.8397984504699707
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.8564653396606445
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.8731322288513184
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.8897991180419922
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.906466007232666
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.9231362342834473
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.9398031234741211
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.9564700126647949
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.9731369018554688
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 4.9898037910461426
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.0064706802368164
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.0231375694274902
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.0398044586181641
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.0564713478088379
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.0731382369995117
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.0898051261901855
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.1064720153808594
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.1231389045715332
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.139805793762207
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.1564726829528809
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.1731395721435547
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.1898064613342285
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.2064733505249023
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.2231402397155762
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.23980712890625
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.2564740180969238
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.2731409072875977
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.2898077964782715
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.3064746856689453
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.3231415748596191
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.339808464050293
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.3564753532409668
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.3731422424316406
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.3898091316223145
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.4064760208129883
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.4231429100036621
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.4398097991943359
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.4564766883850098
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.4731898307800293
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.4898567199707031
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.506523609161377
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.5231904983520508
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.5398573875427246
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.5565242767333984
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.5731911659240723
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.5898580551147461
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.6065249443054199
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.6231918334960938
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 5.6398587226867676
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.6565256118774414
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.6731925010681152
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.6898593902587891
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.7065281867980957
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.7231950759887695
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.7398619651794434
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.7565288543701172
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.773195743560791
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.789863109588623
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.8065299987792969
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.8231968879699707
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.8398637771606445
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.8565306663513184
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.8731975555419922
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.889864444732666
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.9065313339233398
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.9231982231140137
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.9398651123046875
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.9565320014953613
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.9731988906860352
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 5.989865779876709
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 6.0065326690673828
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 6.0231995582580566
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 6.0398664474487305
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 6.0565333366394043
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 6.0732002258300781
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 6.089867115020752
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 6.1065340042114258
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 6.1232008934020996
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 6.1398677825927734
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.1565346717834473
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.1732015609741211
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.1898684501647949
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.2065353393554688
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.2232022285461426
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.2398691177368164
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.2565360069274902
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.2732028961181641
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.2898697853088379
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.3065366744995117
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.3232035636901855
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.3398704528808594
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.3565373420715332
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.373204231262207
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.3898711204528809
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.4065380096435547
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.4232048988342285
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.4398717880249023
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.4565386772155762
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.47320556640625
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.4898724555969238
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.5065393447875977
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.5232062339782715
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.5398731231689453
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.5565400123596191
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.573206901550293
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.5898737907409668
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.6065406799316406
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.6232075691223145
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.6398744583129883
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.6565413475036621
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.6732082366943359
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.6898751258850098
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.7065420150756836
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.7232089042663574
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.7398757934570312
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.7565426826477051
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.7732095718383789
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.7898764610290527
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.8065433502197266
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.8232102394104004
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.8398771286010742
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.856544017791748
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.8732109069824219
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.8898777961730957
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.9065446853637695
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.9232115745544434
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.9398784637451172
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.956545352935791
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.9732122421264648
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 6.9898791313171387
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.0065460205078125
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.0232129096984863
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.0398797988891602
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.056546688079834
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.0732135772705078
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.0898804664611816
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.1065473556518555
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.1232142448425293
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.1398811340332031
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.156548023223877
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.1732149124145508
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.1898818016052246
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.2065486907958984
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.2232155799865723
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.2398824691772461
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.2565493583679199
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.2732162475585938
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.2898831367492676
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.3065500259399414
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.3232169151306152
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.3398838043212891
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.3565506935119629
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.3732175827026367
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.3898844718933105
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 1
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.4065513610839844
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.4232182502746582
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.439885139465332
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.4565520286560059
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.4732189178466797
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.4898858070373535
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.5065526962280273
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.5232195854187012
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.539886474609375
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.5565533638000488
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.5732202529907227
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.5898871421813965
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.6065540313720703
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.6232209205627441
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 1
+				}
+			],
+			"worldTime": 7.639887809753418
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.6565546989440918
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.6732215881347656
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.6898884773254395
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.7065553665161133
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.7232222557067871
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.7398891448974609
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.7565560340881348
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.7732229232788086
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.7898898124694824
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.8065567016601562
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.8232235908508301
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.8398904800415039
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.8565573692321777
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.8732242584228516
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.8898911476135254
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.9065580368041992
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.923224925994873
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.9398918151855469
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.9565587043762207
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.9732255935668945
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 7.9898924827575684
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.0065593719482422
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.0232257843017578
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.0398921966552734
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.0565586090087891
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.0732250213623047
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.0898914337158203
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.1065578460693359
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.1232242584228516
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.1398906707763672
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.1565570831298828
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.1732234954833984
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.1898899078369141
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.2065563201904297
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.2232227325439453
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.2398891448974609
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.2565555572509766
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.2732219696044922
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.2898883819580078
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.3065547943115234
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.3232212066650391
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.3398904800415039
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.3565568923950195
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.3732233047485352
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.3898897171020508
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.4065561294555664
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.423222541809082
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.4398889541625977
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.4565553665161133
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.4732217788696289
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.4898881912231445
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.5065546035766602
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.5232210159301758
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.5398874282836914
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.556553840637207
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.5732202529907227
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.5898866653442383
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.6065530776977539
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.6232223510742188
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.6398887634277344
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.65655517578125
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.6732215881347656
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.6898880004882812
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.7065544128417969
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.7232208251953125
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.7398872375488281
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.7565536499023438
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.7732200622558594
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.789886474609375
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.8065528869628906
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.8232192993164062
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.8399505615234375
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.8566169738769531
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.8732833862304688
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.8899497985839844
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.9066162109375
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.9232826232910156
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.9399490356445312
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": -1
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.9566154479980469
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.9732818603515625
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 8.9899482727050781
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 9.0066146850585938
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 9.0232810974121094
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 9.039947509765625
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 9.0566139221191406
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 9.0732803344726562
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 9.0899467468261719
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 9.1066131591796875
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 9.1232795715332031
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.1399459838867188
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.1566123962402344
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.17327880859375
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.1899452209472656
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.2066116333007812
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.2232780456542969
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.2399444580078125
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.2566108703613281
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.2732772827148438
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.2899436950683594
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.306610107421875
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.3232765197753906
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.3399429321289062
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.3566093444824219
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.3732757568359375
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.3899421691894531
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.4066085815429688
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.4232749938964844
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.43994140625
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.4566078186035156
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.4732742309570312
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.4899406433105469
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.5066070556640625
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.5232734680175781
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.5399398803710938
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.5566062927246094
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.573272705078125
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.5899391174316406
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.6066055297851562
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.6232719421386719
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.6399383544921875
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.6566047668457031
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.6732711791992188
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.6899375915527344
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.70660400390625
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.7232704162597656
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.7399368286132812
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.7566032409667969
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.7732696533203125
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.7899360656738281
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.8066024780273438
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.8232746124267578
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.8399410247802734
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.8566074371337891
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.8732738494873047
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.8899402618408203
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.9066066741943359
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.9232730865478516
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.9399394989013672
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.9566059112548828
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.9732723236083984
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 9.9899387359619141
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": -1
+				}
+			],
+			"worldTime": 10.00660514831543
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.023271560668945
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.039937973022461
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.056604385375977
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.073270797729492
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.089937210083008
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.106603622436523
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.123270034790039
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.139936447143555
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.15660285949707
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.173269271850586
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.189935684204102
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.206602096557617
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.225122451782227
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.241788864135742
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.258455276489258
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.275121688842773
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.291788101196289
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.308454513549805
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.32512092590332
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.341787338256836
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.358453750610352
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.375120162963867
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.391786575317383
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.408452987670898
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.425119400024414
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.44178581237793
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.458452224731445
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.475118637084961
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.491785049438477
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.508451461791992
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.525117874145508
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.541784286499023
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.558450698852539
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.575117111206055
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.59178352355957
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.608449935913086
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.625116348266602
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.641782760620117
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.658449172973633
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.675115585327148
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.691781997680664
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.70844841003418
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.725114822387695
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.741781234741211
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.758447647094727
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.775114059448242
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.791780471801758
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.808446884155273
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.825113296508789
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.841779708862305
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.85844612121582
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.875112533569336
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.891778945922852
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.908477783203125
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.925148010253906
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.941814422607422
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.958480834960938
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.975147247314453
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 10.991813659667969
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.008480072021484
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.025146484375
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.041812896728516
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.058479309082031
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.075145721435547
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.091812133789062
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.108478546142578
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.125144958496094
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.141811370849609
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.158477783203125
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.175144195556641
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.191810607910156
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.208477020263672
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.225143432617188
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.241809844970703
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.258476257324219
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.275142669677734
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.29180908203125
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.308475494384766
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.325141906738281
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.341808319091797
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.358474731445312
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.375141143798828
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.391807556152344
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.408473968505859
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.425140380859375
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.441806793212891
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.458473205566406
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.475139617919922
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.491806983947754
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.50847339630127
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.525139808654785
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.541806221008301
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.558472633361816
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.575139045715332
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.591805458068848
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.608471870422363
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.625138282775879
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.641804695129395
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.65847110748291
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.675137519836426
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.691803932189941
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.708470344543457
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.725192070007324
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.74185848236084
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.758524894714355
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.775191307067871
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.791857719421387
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.808524131774902
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.825190544128418
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.841856956481934
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.858523368835449
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.875189781188965
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.89185619354248
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.908522605895996
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.925189018249512
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.941855430603027
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.958525657653809
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.975192070007324
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 11.99185848236084
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.008524894714355
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.025191307067871
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.041857719421387
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.058524131774902
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.075190544128418
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.091856956481934
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.108523368835449
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.125189781188965
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.14185619354248
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.158522605895996
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.175189018249512
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.191855430603027
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.208521842956543
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.225188255310059
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.241854667663574
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.25852108001709
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.275187492370605
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.291853904724121
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.308520317077637
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.325186729431152
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.341853141784668
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.358519554138184
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.375185966491699
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.391852378845215
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.40851879119873
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.425185203552246
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.441851615905762
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.458518028259277
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.475184440612793
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.491850852966309
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.508517265319824
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.52518367767334
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.541850090026855
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.558516502380371
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.57518482208252
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.591851234436035
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.608517646789551
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.625184059143066
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.641850471496582
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.658516883850098
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.675183296203613
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.691849708557129
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.708516120910645
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.72518253326416
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.741848945617676
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.758515357971191
+		},
+		{
+			"axisValues": [
+				{
+					"name": "MoveForward",
+					"value": 0
+				},
+				{
+					"name": "MoveRight",
+					"value": 0
+				}
+			],
+			"worldTime": 12.775181770324707
+		}
+	],
+	"initialTransform":
+	{
+		"rotation":
+		{
+			"x": 0,
+			"y": 0,
+			"z": 0,
+			"w": 1
+		},
+		"translation":
+		{
+			"x": -1470,
+			"y": 1550,
+			"z": 583.30625772476196
+		},
+		"scale3D":
+		{
+			"x": 1,
+			"y": 1,
+			"z": 1
+		}
+	}
+}
