@@ -7,6 +7,8 @@
 #include "UnrealTopDown/Tests/InputRecordingUtils.h"
 #include "InputRecordingComponent.generated.h"
 
+class UPlayerInput;
+
 UCLASS(ClassGroup = (Custom), meta = (BlueprintSpawnableComponent))
 class UNREALTOPDOWN_API UInputRecordingComponent : public UActorComponent
 {
@@ -26,6 +28,10 @@ public:
     virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
 private:
+    UPROPERTY()
+    UPlayerInput* PlayerInput;
+
+
     FInputData InputData;
 
     FBindingsData MakeBindingsData() const;

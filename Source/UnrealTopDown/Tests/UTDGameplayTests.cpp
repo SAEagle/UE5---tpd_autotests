@@ -157,7 +157,7 @@ public:
         {
             WorldStartTime = World->TimeSeconds;
         }
-
+        // for will not pass on a different framefrates!!! Please use while
         while (World->TimeSeconds - WorldStartTime >= BindingsData[Index].WorldTime)
         {
             for (int32 i = 0; i < InputComponent->AxisBindings.Num(); ++i)
@@ -165,11 +165,23 @@ public:
                 const float AxisValue = BindingsData[Index].AxisValues[i].Value;
                 InputComponent->AxisBindings[i].AxisDelegate.Execute(AxisValue);
             }
-            if (++Index >= BindingsData.Num()) return true;  
+
+            if (Index > 0)
+            {
+                for (int32 i = 0; i < InputComponent->GetNumActionBindings(); ++i)
+                {
+                    const auto ActionValue = BindingsData[Index].ActionValues[i];
+                    const auto PrevActionValue = BindingsData[Index - 1].ActionValues[i];
+                    if (ActionValue.State && ActionValue.State != PrevActionValue.State)
+                    {
+                        InputComponent->GetActionBinding(i).ActionDelegate.Execute(ActionValue.Key);
+                    }
+                }
+            }
+            if (++Index >= BindingsData.Num()) return true;
         }
         return false;
     }
-
 
 private:
     const UWorld* World;
