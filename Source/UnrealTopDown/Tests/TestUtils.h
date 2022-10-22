@@ -67,7 +67,6 @@ int32 GetAxisBindingByName(UInputComponent* InputComp, const FString& AxisName);
 
 FString GetTestDataDir();
 
-
 }  // namespace Test
 }  // namespace UTPDGame
 

@@ -23,7 +23,10 @@ IMPLEMENT_SIMPLE_AUTOMATION_TEST(FInventoryItemCantBeTakenOnJumpIfTooHigh, "TPSG
 IMPLEMENT_SIMPLE_AUTOMATION_TEST(FAllItemsCanBeTakenOnMovement, "TPSGame.GamePlay.FAllItemsCanBeTakenOnMovement",
     EAutomationTestFlags::ApplicationContextMask | EAutomationTestFlags::ProductFilter | EAutomationTestFlags::HighPriority);
 
-IMPLEMENT_SIMPLE_AUTOMATION_TEST(FAllItemsCanBeTakenOnRecordingMovement, "TPSGame.GamePlay.FAllItemsCanBeTakenOnRecordingMovement",
+IMPLEMENT_COMPLEX_AUTOMATION_TEST(FAllItemsCanBeTakenOnRecordingMovement, "TPSGame.GamePlay.FAllItemsCanBeTakenOnRecordingMovement",
+    EAutomationTestFlags::ApplicationContextMask | EAutomationTestFlags::ProductFilter | EAutomationTestFlags::HighPriority);
+
+IMPLEMENT_COMPLEX_AUTOMATION_TEST(FMapsShouldBeLoaded, "TPSGame.GamePlay.FMapsShouldBeLoaded",
     EAutomationTestFlags::ApplicationContextMask | EAutomationTestFlags::ProductFilter | EAutomationTestFlags::HighPriority);
 
 using namespace UTPDGame::Test;
@@ -191,9 +194,35 @@ private:
     float WorldStartTime{0.0f};
 };
 
+void FAllItemsCanBeTakenOnRecordingMovement::GetTests(TArray<FString>& OutBeatifiedNames, TArray<FString>& OutTestCommands) const
+{
+    struct FTestData
+    {
+        FString TestName;
+        FString MapPath;
+        FString JsonName;
+    };
+
+    const TArray<FTestData> TestData =  //
+        {
+            {"MainMap", "/Game/TopDown/Maps/TopDownMap", "CharacterTestInputMain.json"},    //
+            {"CustomMap", "/Game/TopDown/Maps/CustomLevel", "CharacterTestInputCustom.json"},  //
+        };
+
+    for (const auto OneTestData:TestData)
+    {
+        OutBeatifiedNames.Add(OneTestData.TestName);
+        OutTestCommands.Add(FString::Printf(TEXT("%s,%s"), *OneTestData.MapPath, *OneTestData.JsonName));
+    }
+}
+
 bool FAllItemsCanBeTakenOnRecordingMovement::RunTest(const FString& Parameters)
 {
-    const auto Level = LevelScope("Game/TopDown/Maps/TopDownMap");
+    TArray<FString> ParsedParams;
+    Parameters.ParseIntoArray(ParsedParams, TEXT(","));
+    if (!TestTrue("Map name and Json params not valid", ParsedParams.Num() == 2)) return false;
+
+    const auto Level = LevelScope(ParsedParams[0]);
 
     UWorld* World = GetTestGameWorld();
     if (!TestNotNull("World exists", World)) return false;
@@ -205,8 +234,8 @@ bool FAllItemsCanBeTakenOnRecordingMovement::RunTest(const FString& Parameters)
     UGameplayStatics::GetAllActorsOfClass(World, ATPDInventoryPickup::StaticClass(), InventoryItems);
     TestTrueExpr(InventoryItems.Num() == 4);
 
-    FString FileName = GetTestDataDir().Append(
-        "CharacterTestInput.json");  // FPaths::GameSourceDir().Append("UnrealTopDown/Tests/Data/CharacterTestInput.json");
+    FString FileName =
+        GetTestDataDir().Append(ParsedParams[1]);  // FPaths::GameSourceDir().Append("UnrealTopDown/Tests/Data/CharacterTestInput.json");
 
     FInputData InputData;
     if (!JsonUtils::ReadInputData(FileName, InputData)) return false;
@@ -234,4 +263,38 @@ bool FAllItemsCanBeTakenOnRecordingMovement::RunTest(const FString& Parameters)
     return true;
 }
 
+void FMapsShouldBeLoaded::GetTests(TArray<FString>& OutBeatifiedNames, TArray<FString>& OutTestCommands) const
+{
+    // const TTuple<FString, int32, bool, float> MyTuple1 = {"unreal", 5, true, 100.0f};
+    // const auto MyTuple2 = MakeTuple(FString("unity"), 7, false, 50.0f);
+
+    // auto str = MyTuple1.Get<0>();
+    // auto intgr = MyTuple1.Get<1>();
+    // auto bln = MyTuple1.Get<2>();
+    // auto flt = MyTuple1.Get<3>();
+
+    // UE_LOG(LogTemp, Display, TEXT("TUPLE1: %s, %i, %i, %f"), *str, intgr, bln, flt);
+
+    // Tie(str, intgr, bln, flt) = MyTuple2;
+    // UE_LOG(LogTemp, Display, TEXT("TUPLE2: %s, %i, %i, %f"), *str, intgr, bln, flt);
+
+    const TArray<TTuple<FString, FString>> TestData =  //
+        {
+            {"MainMap", "/Game/TopDown/Maps/TopDownMap"},    //
+            {"CustomMap", "/Game/TopDown/Maps/CustomLevel"},  //
+        };
+
+    for (const auto OneTestData : TestData)
+    {
+        OutBeatifiedNames.Add(OneTestData.Key);
+        OutTestCommands.Add(OneTestData.Value);
+    }
+}
+
+bool FMapsShouldBeLoaded::RunTest(const FString& Parameters)
+{
+    const auto Level = LevelScope(Parameters);
+    ADD_LATENT_AUTOMATION_COMMAND(FEngineWaitLatentCommand(2.0f));
+    return true;
+}
 #endif
