@@ -24,3 +24,23 @@ AUnrealTopDownGameMode::AUnrealTopDownGameMode()
 		PlayerControllerClass = PlayerControllerBPClass.Class;
 	}
 }
+
+bool AUnrealTopDownGameMode::SetPause(APlayerController* PC, FCanUnpause CanUnpauseDelegate)
+{
+    const bool Succeed = Super::SetPause(PC, CanUnpauseDelegate);
+    if (Succeed)
+    {
+        OnGamePause.Broadcast(true);
+	}
+    return false;
+}
+
+bool AUnrealTopDownGameMode::ClearPause()
+{
+    const bool Succeed = Super::ClearPause();
+    if (Succeed)
+    {
+        OnGamePause.Broadcast(false);
+    }
+    return false;
+}

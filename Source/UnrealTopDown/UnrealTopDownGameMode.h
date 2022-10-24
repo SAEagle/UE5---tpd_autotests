@@ -6,6 +6,8 @@
 #include "GameFramework/GameModeBase.h"
 #include "UnrealTopDownGameMode.generated.h"
 
+DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnGamePauseDelegate, bool, IsPaused);
+
 UCLASS(minimalapi)
 class AUnrealTopDownGameMode : public AGameModeBase
 {
@@ -13,6 +15,12 @@ class AUnrealTopDownGameMode : public AGameModeBase
 
 public:
 	AUnrealTopDownGameMode();
+
+	virtual bool SetPause(APlayerController* PC, FCanUnpause CanUnpauseDelegate = FCanUnpause()) override;
+    virtual bool ClearPause();
+
+	UPROPERTY(BlueprintAssignable)
+    FOnGamePauseDelegate OnGamePause;
 };
 
 

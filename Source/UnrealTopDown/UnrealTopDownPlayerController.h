@@ -18,6 +18,8 @@ class AUnrealTopDownPlayerController : public APlayerController
 public:
 	AUnrealTopDownPlayerController();
 
+	void ToggleGamePause();
+
 	/** Time Threshold to know if it was a short press */
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input)
 	float ShortPressThreshold;
@@ -25,6 +27,7 @@ public:
 	/** FX Class that we will spawn when clicking */
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input)
 	UNiagaraSystem* FXCursor;
+
 
 protected:
 	/** True if the controlled character should navigate to the mouse cursor. */
