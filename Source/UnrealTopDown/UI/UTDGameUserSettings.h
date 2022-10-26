@@ -8,6 +8,9 @@
 
 class UTDGameSetting;
 
+DECLARE_MULTICAST_DELEGATE(FOnSettingsUpdatedDelegate);
+
+
 UCLASS()
 class UNREALTOPDOWN_API UUTDGameUserSettings : public UGameUserSettings
 {
@@ -18,6 +21,10 @@ public:
     static UUTDGameUserSettings* Get();
 
     const TArray<UTDGameSetting*>& GetVideoSettings() const;
+
+    void RunBenchmark();
+
+    FOnSettingsUpdatedDelegate OnVideoSettingUpdated;
 
 private:
     UPROPERTY()

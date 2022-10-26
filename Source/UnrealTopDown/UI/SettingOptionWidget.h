@@ -8,6 +8,7 @@
 
 class UTextBlock;
 class UTDGameSetting;
+class UButton;
 
 UCLASS()
 class UNREALTOPDOWN_API USettingOptionWidget : public UUserWidget
@@ -21,6 +22,12 @@ protected:
     UPROPERTY(meta = (BindWidget))
     UTextBlock* SettingCurrentValue;
 
+    UPROPERTY(meta = (BindWidget))
+    UButton* NextSettingButton;
+
+    UPROPERTY(meta = (BindWidget))
+    UButton* PrevSettingButton;
+
     virtual void NativeOnInitialized() override;
 
 private:
@@ -28,6 +35,12 @@ private:
 
     void Init(UTDGameSetting* InSetting);
     void UpdateTexts();
+
+    UFUNCTION()
+    void OnNextSetting();
+
+    UFUNCTION()
+    void OnPrevSetting();
 
     friend class UVideoSettingsWidget;
 };

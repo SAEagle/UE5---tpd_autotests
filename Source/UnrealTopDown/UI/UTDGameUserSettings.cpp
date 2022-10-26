@@ -3,42 +3,65 @@
 #include "UI/UTDGameUserSettings.h"
 #include "UI/UTDGameSetting.h"
 
+#define BIND_SETTINGS_FUNC(FUNC) \
+    [&](int32 Level)             \
+    {                            \
+        FUNC(Level);             \
+        ApplySettings(false);    \
+    }
+
+#define LOCTEXT_NAMESPACE "GameUserSettings"
+
 UUTDGameUserSettings::UUTDGameUserSettings()
 {
-    const TArray<FSettingOption> VFXOptions = {{"Low", 0}, {"Medium", 1}, {"High", 2}, {"Epic", 3}};
+    const TArray<FSettingOption> VFXOptions = {
+        {LOCTEXT("VFXQualityLow_Loc", "Low"), 0},        //
+        {LOCTEXT("VFXQualityMedium_Loc", "Medium"), 1},  //
+        {LOCTEXT("VFXQualityHigh_Loc", "High"), 2},      //
+        {LOCTEXT("VFXQualityEpic_Loc", "Epic"), 3}       //
+    };
     {
         auto* Setting = NewObject<UTDGameSetting>();
-        check(Setting)
-        Setting->SetName("Anti-Aliasing");
+        check(Setting) Setting->SetName(LOCTEXT("AntiAliasing", "Anti-Aliasing"));
         Setting->SetOption(VFXOptions);
+        Setting->AddGetter([&]() { return GetAntiAliasingQuality(); });
+        Setting->AddSetter(BIND_SETTINGS_FUNC(SetAntiAliasingQuality));
         VideoSettings.Add(Setting);
     }
 
     {
         auto* Setting = NewObject<UTDGameSetting>();
-        Setting->SetName("Textures");
+        Setting->SetName(LOCTEXT("Textures", "Textures"));
         Setting->SetOption(VFXOptions);
+        Setting->AddGetter([&]() { return GetTextureQuality(); });
+        Setting->AddSetter(BIND_SETTINGS_FUNC(SetTextureQuality));
         VideoSettings.Add(Setting);
     }
 
     {
         auto* Setting = NewObject<UTDGameSetting>();
-        Setting->SetName("Global Ilumination");
+        Setting->SetName(LOCTEXT("GlobalIlum", "Global Illumination"));
         Setting->SetOption(VFXOptions);
+        Setting->AddGetter([&]() { return GetGlobalIlluminationQuality(); });
+        Setting->AddSetter(BIND_SETTINGS_FUNC(SetGlobalIlluminationQuality));
         VideoSettings.Add(Setting);
     }
 
     {
         auto* Setting = NewObject<UTDGameSetting>();
-        Setting->SetName("Shadows");
+        Setting->SetName(LOCTEXT("Shadows", "Shadows"));
         Setting->SetOption(VFXOptions);
+        Setting->AddGetter([&]() { return GetShadowQuality(); });
+        Setting->AddSetter(BIND_SETTINGS_FUNC(SetShadowQuality));
         VideoSettings.Add(Setting);
     }
 
     {
         auto* Setting = NewObject<UTDGameSetting>();
-        Setting->SetName("Post Processing");
+        Setting->SetName(LOCTEXT("PostProcessing", "Post Processing"));
         Setting->SetOption(VFXOptions);
+        Setting->AddGetter([&]() { return GetPostProcessingQuality(); });
+        Setting->AddSetter(BIND_SETTINGS_FUNC(SetPostProcessingQuality));
         VideoSettings.Add(Setting);
     }
 }
@@ -52,3 +75,12 @@ const TArray<UTDGameSetting*>& UUTDGameUserSettings::GetVideoSettings() const
 {
     return VideoSettings;
 }
+
+void UUTDGameUserSettings::RunBenchmark()
+{
+    RunHardwareBenchmark();
+    ApplySettings(false);
+    OnVideoSettingUpdated.Broadcast();
+}
+
+#undef LOCTEXT_NAMESPACE
