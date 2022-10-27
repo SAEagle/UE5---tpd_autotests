@@ -5,13 +5,9 @@
 #include "CoreMinimal.h"
 #include "UTDGameSetting.generated.h"
 
-USTRUCT()
 struct FSettingOption
 {
-    GENERATED_BODY()
-
     FText Name;
-
     int32 Value;
 };
 
