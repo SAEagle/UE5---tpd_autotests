@@ -15,19 +15,6 @@ IMPLEMENT_SIMPLE_AUTOMATION_TEST(FGameCanBeUnPaused, "TPSGame.PlayerController.G
     EAutomationTestFlags::ApplicationContextMask | EAutomationTestFlags::ProductFilter | EAutomationTestFlags::HighPriority);
 
 using namespace UTPDGame::Test;
-namespace
-{
-void PausePressed(UInputComponent* InputComponent)
-{
-    if (!InputComponent) return;
-    const int32 ActionIndex = GetActionBindingIndexByName(InputComponent, "ToggleGamePause", EInputEvent::IE_Pressed);
-    if (ActionIndex != INDEX_NONE)
-    {
-        const auto JumpActionBind = InputComponent->GetActionBinding(ActionIndex);
-        JumpActionBind.ActionDelegate.Execute(EKeys::P);
-    }
-}
-}  // namespace
 
 bool FGameCanBePaused::RunTest(const FString& Parameters)
 {

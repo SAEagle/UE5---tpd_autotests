@@ -3,6 +3,9 @@
 #include "CoreMinimal.h"
 #include "Engine/Blueprint.h"
 #include "Tests/AutomationCommon.h"
+#include "Blueprint/WidgetBlueprintLibrary.h"
+#include "Blueprint/WidgetTree.h"
+#include "Blueprint/UserWidget.h"
 
 namespace UTPDGame
 {
@@ -66,6 +69,21 @@ int32 GetActionBindingIndexByName(UInputComponent* InputComp, const FString& Act
 int32 GetAxisBindingByName(UInputComponent* InputComp, const FString& AxisName);
 
 FString GetTestDataDir();
+
+template <class T>
+T* FindWidgetByClass()
+{
+    TArray<UUserWidget*> Widgets;
+    UWidgetBlueprintLibrary::GetAllWidgetsOfClass(GetTestGameWorld(), Widgets, T::StaticClass(), false);
+    return Widgets.Num() != 0 ? Cast<T>(Widgets[0]) : nullptr;
+}
+
+
+UWidget* FindWidgetByName(const UUserWidget* Widget, const FName& WidgetName);
+
+void DoInputAction(UInputComponent* InputComponent, const FString& ActionName, const FKey& Key);
+void JumpPressed(UInputComponent* InputComponent);
+void PausePressed(UInputComponent* InputComponent);
 
 }  // namespace Test
 }  // namespace UTPDGame
