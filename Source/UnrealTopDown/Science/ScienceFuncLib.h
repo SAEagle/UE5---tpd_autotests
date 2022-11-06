@@ -14,4 +14,7 @@ class UNREALTOPDOWN_API UScienceFuncLib : public UBlueprintFunctionLibrary
 public:
     UFUNCTION(BlueprintCallable, Category = Science)
     static int32 Fibonacci(int32 Value);
+
+    UFUNCTION(BlueprintCallable, Category = Science)
+    static int32 Factorial(int32 Value);
 };

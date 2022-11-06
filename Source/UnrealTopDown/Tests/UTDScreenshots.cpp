@@ -25,7 +25,7 @@ IMPLEMENT_SIMPLE_AUTOMATION_TEST(FSettingsWidgetRenderedOnPause, "TPSGame.Screen
 
 using namespace UTPDGame::Test;
 
-//later move it to TestUtils.h
+// later move it to TestUtils.h
 class FTakeScreenshotLatentCommand : public IAutomationLatentCommand
 {
 public:
