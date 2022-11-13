@@ -121,6 +121,7 @@ bool FSettingsCanBeAplied::RunTest(const FString& Parameters)
     TestTrueExpr(GIQualityAfter == VideoSettings[2]->GetCurrentOption().Value);
 
     UUTDGameUserSettings::Get()->SetGlobalIlluminationQuality(GIQualityBefore);
+    UUTDGameUserSettings::Get()->ApplySettings(false);
 
     /*
     for (int32 i = 0; i < 5; ++i)
