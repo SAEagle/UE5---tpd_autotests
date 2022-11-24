@@ -11,9 +11,19 @@ call "%RunUATPath%" BuildCookRun ^
 
 
 rem run tests
-"%EditorPath%" "%ProjectPath%" -ExecCmds="Automation RunTests %TestNames%;Quit" ^
+set TestRunner="%EditorPath%" "%ProjectPath%" -ExecCmds="Automation RunTests %TestNames%;Quit" ^
 -log -abslog="%TestOutputLogPath%" -nosplash -ReportOutputPath="%ReportOutputPath%" 
 
+rem run code coverage
+::set ExportType=cobertura:%ReportOutputPath%\Coverage\CodeCoverageReport.xml
+set ExportType=html:%ReportOutputPath%\Coverage\CodeCoverageReport
+
+
+"%OpenCCPCoveragPath%" --modules="%ProjectRoot%" --source="%SourceCodePath%" ^
+--excluded_sources="%SourceCodePath%\UnrealTopDown\Tests" --export_type="%ExportType%" -- %TestRunner% -v
+
+rem clean obsolete atrifacts
+del /q LastCoverageResults.log
 
 rem copy test artifacts
 set TestsDir=%~dp0
@@ -27,6 +37,7 @@ set Localhost=http://localhost:%Port%
 
 pushd "%ReportOutputPath%"
 start "" "%Localhost%"
+start "" "%Localhost%\Coverage\CodeCoverageReport\index.html"
 call http-server -p="%Port%"
 popd 
 
